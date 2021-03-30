@@ -1,0 +1,13 @@
+body {
+	font-family: "arial";
+	background-image: url(../Gambar/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.border-tabel{
+	border-color: black;
+	border-style: solid;
+}
+

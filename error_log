@@ -1,0 +1,38 @@
+[21-Mar-2021 19:06:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:10:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:10:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:12:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:12:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:12:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php:7
+Stack trace:
+#0 /home/rasd5145/public_html/praktikum-struktur-data/halaman.php(3): include()
+#1 /home/rasd5145/public_html/praktikum-struktur-data/home.php(34): include('/home/rasd5145/...')
+#2 {main}
+  thrown in /home/rasd5145/public_html/praktikum-struktur-data/koneksi.php on line 7
+[21-Mar-2021 19:16:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rasd5145/public_html/praktikum-struktur-data/kendaraan.php on line 41
+[21-Mar-2021 19:17:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rasd5145/public_html/praktikum-struktur-data/sewa.php on line 40
